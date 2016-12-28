@@ -1,3 +1,5 @@
+## This is work of @ganadist which I am using for my purpose.
+
 # Fake Nexus Rom
 
 ## Introduction
