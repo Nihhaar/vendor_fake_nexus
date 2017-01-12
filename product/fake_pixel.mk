@@ -3,7 +3,6 @@ PRODUCT_PACKAGE_OVERLAYS := \
 
 PRODUCT_PACKAGES := \
 	PixelSoundResources \
-	Provision \
 
 PRODUCT_PROPERTY_OVERRIDES := \
 	ro.config.ringtone=Zen.ogg \
