@@ -14,6 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <integer name="grid_aa_short_edge_count">4</integer>
+    <integer name="grid_aa_short_edge_count">5</integer>
     <integer name="grid_aa_long_edge_count">6</integer>
 </resources>
