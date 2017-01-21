@@ -3,6 +3,12 @@ PRODUCT_PACKAGE_OVERLAYS := \
 
 PRODUCT_PACKAGES := \
 	PixelSoundResources \
+	NexusWallpapersStubPrebuilt \
+	WallpapersUsTwo \
+	PixelLauncher \
+	WallpaperPickerPrebuilt \
+	Photos \
+	SetupWizard
 
 PRODUCT_PROPERTY_OVERRIDES := \
 	ro.config.ringtone=Zen.ogg \
