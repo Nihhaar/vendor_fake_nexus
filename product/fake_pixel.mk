@@ -1,5 +1,5 @@
 PRODUCT_PACKAGE_OVERLAYS := \
-	vendor/fake_nexus/product/overlay-pixel \
+	vendor/pixelrom/product/overlay-pixel \
 
 PRODUCT_PACKAGES := \
 	PixelSoundResources \
